@@ -1,5 +1,4 @@
-<h1 align="center">안녕하세요 👋 .</h1>
-<h3 align="center">백엔드 개발자를 향해 달려가고 있습니다.</h3>
+<h1 align="center">안녕하세요 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyeon4869&label=Profile%20views&color=0e75b6&style=flat" alt="hyeon4869" /> </p>
 
