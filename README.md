@@ -29,9 +29,6 @@
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![ApacheKafka](http://img.shields.io/badge/-Kafka-BF00FF?style=flat-square&logo=ApacheKafka&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 <br/><br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeon4869&show_icons=true&locale=en&layout=compact" alt="hyeon4869" /></p>
